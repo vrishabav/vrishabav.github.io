@@ -26,18 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Vrishab A V"
   pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
   location         : "Chennai"
-  employer         : ""
-  uri              : "vrishabav.github.io"
+  employer         : "IIT Madras"
   email            : "vrishabav06@gmail.com" 
 
   # Academic websites
   academia         : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -53,11 +51,11 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "vrishabav"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
